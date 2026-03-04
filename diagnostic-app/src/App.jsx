@@ -760,7 +760,7 @@ export default function App() {
               <div style={s.ctaLabel}>Ready to close this gap?</div>
               <div style={s.ctaHeading}>The Offer Map Intensive builds your architecture from evidence — in one session.</div>
               <a
-                href="https://priddyimpactgroup.com"
+                href="https://malissapriddy.com/offer-map-page"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={s.ctaBtn}
